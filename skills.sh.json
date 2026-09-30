@@ -1,0 +1,28 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Code Practices",
+      "description": "Independent skills for writing and maintaining useful, secure, testable software without needless complexity.",
+      "skills": [
+        "code",
+        "thinking",
+        "architecture",
+        "testing",
+        "debugging",
+        "security",
+        "performance",
+        "concurrency",
+        "dependencies",
+        "git",
+        "code-review",
+        "documentation",
+        "tooling",
+        "delivery",
+        "maintenance",
+        "human"
+      ]
+    }
+  ]
+}
